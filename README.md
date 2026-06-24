@@ -9,7 +9,7 @@
 ※主に大学用のGithubアカウントを使用していたため、乗り換えたばかりです。
 
 <p align="center">
-  <img src="world.png" width="100%">
+  <img src="world2.png" width="100%">
 </p>
 
 ## 所属
