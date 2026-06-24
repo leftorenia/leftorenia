@@ -5,6 +5,10 @@
 
 「3D空間を彩る光とエフェクトで幻想的な世界観を創り、想像の一歩先の体験を届けるVRChatワールド作家になる」
 
+<p align="center">
+  <img src="world.png" width="100%">
+</p>
+
 ## 所属
 
 - Iwaken Lab.
