@@ -1,5 +1,21 @@
-## はじめまして、/*れふれふ*/です。
+# れふれふ
+寒色系・透明感・幻想的な光で彩られた世界観が好き。
 
-Unity | Shader | VFX | 3D Modeling | Illustration
+個人活動の志
+「3D空間を彩る光とエフェクトで幻想的な世界観を創り、想像の一歩先の体験を届けるVRChatワールド作家になる」
+
+## 所属
+
+- Iwaken Lab.
+
+## SNSアカウント
+
+- Note: https://note.com/lef_torenia_lef
+- X: https://x.com/lef_clear_lef
+
+## Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,docker,anaconda,blender,c,discord,github,ai,linux,notion,ps,powershell,py,visualstudio,vscode,windows" />
+</p>
 
 
