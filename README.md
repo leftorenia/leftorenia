@@ -15,6 +15,34 @@
 - X: https://x.com/lef_clear_lef
 
 ## Skills
+
+### Engine
+
+- Unity
+
+### Graphics
+
+- ShaderLab
+- HLSL
+- URP
+
+### Programing
+
+- C
+- C++
+- Python
+
+### 3DCG
+
+- Blender
+- Substance 3D Painter
+- Inventor CAD/CFD
+
+### Design
+
+- Photoshop
+- illustrator
+
 <p>
   <img src="https://skillicons.dev/icons?i=unity,docker,anaconda,blender,c,discord,github,ai,linux,notion,ps,powershell,py,visualstudio,vscode,windows" />
 </p>
