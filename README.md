@@ -9,6 +9,9 @@
 ※主に大学用のGithubアカウントを使用していたため、乗り換えたばかりです。
 
 <p align="center">
+  <img src="world1.png" width="100%">
+</p>
+<p align="center">
   <img src="world2.png" width="100%">
 </p>
 
