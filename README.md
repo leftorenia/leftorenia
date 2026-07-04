@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="world2.png" width="100%">
+  <img src="Effect_shield.png" width="100%">
 </p>
 
 ## 所属
